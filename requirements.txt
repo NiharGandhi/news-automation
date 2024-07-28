@@ -6,3 +6,4 @@ lxml[html_clean]
 nltk
 tenacity
 twilio
+dotenv
