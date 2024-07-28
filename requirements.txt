@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+newspaper3k
+schedule
+smtplib
+nltk
+tenacity
+twilio
